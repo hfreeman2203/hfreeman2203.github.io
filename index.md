@@ -4,7 +4,7 @@ This is my home page! My name is Harvey Freeman and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/hfreeman2203.github.io.
+My GitHub page is https://github.com/hfreeman2203
 
 ### CPSC 120
 
